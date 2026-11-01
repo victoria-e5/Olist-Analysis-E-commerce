@@ -55,7 +55,7 @@ Recommendation: Roll out the recommendation system to 100% of the user base to m
 ***
 
 ## Repository Structure
-```text
+```
 ├── sql/
 │   ├── 01_mart_orders_finance.sql
 │   ├── 02_mart_behavioral_retention.sql
@@ -63,7 +63,7 @@ Recommendation: Roll out the recommendation system to 100% of the user base to m
 ├── A_B_Olist.ipynb           # Cohorts, LTV, A/B testing
 ├── Dashboard_Olist.png       # Power BI dashboard visualization
 └── README.md
-```text
+```
 
 ***
 #### How to Run
