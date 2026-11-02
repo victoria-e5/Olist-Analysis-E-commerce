@@ -50,6 +50,9 @@ Methodology: Users were strictly hashed by `customer_unique_id` and split 50/50.
 
 Results: The null hypothesis $H_0$ was rejected ($p-value < 0.05$). The alternative hypothesis $H_1$ was mathematically confirmed, proving the statistical significance of the 5% AOV uplift. 
 
+
+<img src="Dashboard_Olist.jpg" width="800" alt="Дашборд Olist">
+
 Recommendation: Roll out the recommendation system to 100% of the user base to maximize Gross Profit.
 
 ***
