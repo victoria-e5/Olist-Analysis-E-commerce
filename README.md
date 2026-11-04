@@ -1,7 +1,7 @@
 Dataset link: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 ---
 
-# Olist E-Commerce Product Analysis and A/B Testing
+# Olist E-Commerce Product Analytics and A/B Testing
 
 
 ## Overview
